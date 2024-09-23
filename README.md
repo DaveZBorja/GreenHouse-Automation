@@ -1,6 +1,4 @@
-Sure! Here’s a README.md file formatted for GitHub that you can upload directly:
 
-```markdown
 # Greenhouse Monitoring and Control System
 
 This project utilizes the ESP8266 microcontroller to monitor and control a greenhouse environment. It reads data from various sensors and allows users to control relays and set thresholds via a web interface.
@@ -96,15 +94,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to modify and enhance this project for your specific needs! If you encounter issues or have suggestions, please raise them as issues in the repository.
 ```
 
-### Instructions to Upload
-
-1. Create a new repository on GitHub.
-2. In your local repository, create a new file named `README.md`.
-3. Copy and paste the above content into the `README.md` file.
-4. Save the file and commit the changes:
-   ```bash
-   git add README.md
-   git commit -m "Add README.md"
-   git push origin main
-   ```
-5. Your README will now be visible on the GitHub repository page!
