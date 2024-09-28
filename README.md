@@ -35,7 +35,7 @@ This project utilizes the ESP8266 microcontroller to monitor and control a green
 
 1. **Clone this repository**:
    ```bash
-   [https://github.com/DaveZBorja/GreenHouse-Automation.git]
+   https://github.com/DaveZBorja/GreenHouse-Automation.git
    ```
 
 2. **Install necessary libraries**:
@@ -92,5 +92,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Feel free to modify and enhance this project for your specific needs! If you encounter issues or have suggestions, please raise them as issues in the repository.
-```
-
