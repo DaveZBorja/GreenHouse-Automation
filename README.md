@@ -35,7 +35,7 @@ This project utilizes the ESP8266 microcontroller to monitor and control a green
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/greenhouse-monitor.git
+   [https://github.com/DaveZBorja/GreenHouse-Automation.git]
    ```
 
 2. **Install necessary libraries**:
